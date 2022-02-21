@@ -1,1 +1,1 @@
-# -nstgaramToplu-stek-ptalEtmeKoduJS
+# İnstgaram Toplu istek iptal EtmeKodu JS
