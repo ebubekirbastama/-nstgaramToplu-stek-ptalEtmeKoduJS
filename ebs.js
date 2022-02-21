@@ -1,0 +1,11 @@
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div[3]/div/div[2]/button")[0].click();
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[2]/div[3]/div/div[2]/button")[0].click();
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[3]/div[3]/div/div[2]/button")[0].click();
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[4]/div[3]/div/div[2]/button")[0].click();
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[5]/div[3]/div/div[2]/button")[0].click();
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[6]/div[3]/div/div[2]/button")[0].click();
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[7]/div[3]/div/div[2]/button")[0].click();
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[8]/div[3]/div/div[2]/button")[0].click();
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[9]/div[3]/div/div[2]/button")[0].click();
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[10]/div[3]/div/div[2]/button")[0].click();
+ $x("//*[@id='react-root']/section/nav/div[2]/div/div/div[3]/div/div[5]/div/div[2]/div[2]/div/div/div[1]/div/div[11]/div[3]/div/div[2]/button")[0].click();
